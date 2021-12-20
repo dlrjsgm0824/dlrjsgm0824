@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.exe
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.deps.json
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.runtimeconfig.json
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.runtimeconfig.dev.json
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.dll
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\bin\Debug\netcoreapp3.1\unitty-lesson-class-object.pdb
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.AssemblyInfo.cs
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.dll
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.pdb
+C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unitty-lesson-class-object\obj\Debug\netcoreapp3.1\unitty-lesson-class-object.genruntimeconfig.cache
