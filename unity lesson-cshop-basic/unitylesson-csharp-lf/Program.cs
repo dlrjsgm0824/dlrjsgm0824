@@ -4,9 +4,9 @@ namespace unitylesson_csharp_lf
 {
     class Program
     {
-      static bool condition1 = true
-       static bool condition = true
-      static bool condition = true 
+        static bool condition1 = true;
+        static bool condition2 = true;
+        static bool condition3 = true;
         static void Main(string[] args)
         {
             if (조건)

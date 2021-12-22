@@ -1,5 +1,0 @@
-C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unity-lesson-cshapandfunckion\obj\Debug\netcoreapp3.1\unity-lesson-cshapandfunckion.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unity-lesson-cshapandfunckion\obj\Debug\netcoreapp3.1\unity-lesson-cshapandfunckion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unity-lesson-cshapandfunckion\obj\Debug\netcoreapp3.1\unity-lesson-cshapandfunckion.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unity-lesson-cshapandfunckion\obj\Debug\netcoreapp3.1\unity-lesson-cshapandfunckion.AssemblyInfo.cs
-C:\Users\User\source\repos\unity-lesson-cshapandfunckion\unity-lesson-cshapandfunckion\obj\Debug\netcoreapp3.1\unity-lesson-cshapandfunckion.csproj.CoreCompileInputs.cache
