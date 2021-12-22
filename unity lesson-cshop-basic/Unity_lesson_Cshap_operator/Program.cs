@@ -11,11 +11,20 @@ namespace Unity_lesson_Cshap_operator
             int b = 5;
             int c;
 
+            float a_f = 14.0f;
+            float b_f = 5.0f;
+            float c_f;
+
+
+
             // 산술연산
             // 덧샘 뺼셈 나눗셈 곱셈 나머지셈
             //=================================================
             c = a + b;
             c = FunctionsForOperators.Sum(a, b);
+            c_f = a_f + b_f;
+            c_f = FunctionsForOperators.Sum(a_f ,b_f);
+
             Console.WriteLine(c);
 
             // 뺼셈
