@@ -21,13 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty-lesson-class-object"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unityclass_cshap_Variable_Function", "unityclass_cshap_Variable_Function\unityclass_cshap_Variable_Function.csproj", "{9A2077E4-D9BC-49E1-8043-154095801329}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity_lesson_cshap_Array", "unity_lesson_cshap_Array\unity_lesson_cshap_Array.csproj", "{2253E5EB-F682-46E6-8A91-C6B1CAC73788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_cshap_Array", "unity_lesson_cshap_Array\unity_lesson_cshap_Array.csproj", "{2253E5EB-F682-46E6-8A91-C6B1CAC73788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_cshap_Whileloop", "unitty_lesson_cshap_Whileloop\unitty_lesson_cshap_Whileloop.csproj", "{36E87C22-A943-47E0-9B5E-24DE11CD1EF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_cshap_Whileloop", "unitty_lesson_cshap_Whileloop\unitty_lesson_cshap_Whileloop.csproj", "{36E87C22-A943-47E0-9B5E-24DE11CD1EF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_csharp_Forloop", "unitty_lesson_csharp_Forloop\unitty_lesson_csharp_Forloop.csproj", "{664E4FE1-E207-4499-A745-553D9A3ABACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_csharp_Forloop", "unitty_lesson_csharp_Forloop\unitty_lesson_csharp_Forloop.csproj", "{664E4FE1-E207-4499-A745-553D9A3ABACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_cshap_Forloopexample", "unitty_lesson_cshap_Forloopexample\unitty_lesson_cshap_Forloopexample.csproj", "{5FA6484D-2F9D-4D1E-BEBB-0DAF5ECAD24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_cshap_Forloopexample", "unitty_lesson_cshap_Forloopexample\unitty_lesson_cshap_Forloopexample.csproj", "{5FA6484D-2F9D-4D1E-BEBB-0DAF5ECAD24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_Cshap_collection", "unitty_lesson_Cshap_collection\unitty_lesson_Cshap_collection.csproj", "{37991F1F-85F4-4D40-B92E-B17E6888F902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{5FA6484D-2F9D-4D1E-BEBB-0DAF5ECAD24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA6484D-2F9D-4D1E-BEBB-0DAF5ECAD24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA6484D-2F9D-4D1E-BEBB-0DAF5ECAD24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37991F1F-85F4-4D40-B92E-B17E6888F902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37991F1F-85F4-4D40-B92E-B17E6888F902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37991F1F-85F4-4D40-B92E-B17E6888F902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37991F1F-85F4-4D40-B92E-B17E6888F902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

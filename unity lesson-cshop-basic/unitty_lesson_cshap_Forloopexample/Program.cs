@@ -11,12 +11,31 @@ namespace unitty_lesson_cshap_Forloopexample
         {
             Orc[] arr_Orc = new Orc[10];
             int lenght = arr_Orc.Length;
-            for (int i = 0; i < lenght; i++)
+            for (int i = 0;
+                i < lenght; 
+                i++)
             {
                 arr_Orc[i] = new Orc();
                 arr_Orc[i].name = $"오크{i}";
+                arr_Orc[i].isResting = GetRandomBool();
             }
 
+            for (int i = 0; i < lenght; i++)
+            {
+                if (arr_Orc[i].isResting)
+                {
+                    arr_Orc[i].jump();
+                }
+            }
+
+
+        }
+         static public bool GetRandomBool()
+        {
+            Random rand = new Random();
+            int randint = rand.Next(0, 2);
+            bool value = Convert. ToBoolean(randint); //NEXT 함수는 minValue ~ maxvalue -1 범위 값을 반환
+            return value;
         }
     }
 
@@ -52,7 +71,7 @@ namespace unitty_lesson_cshap_Forloopexample
             Console.WriteLine($"오크의 이름 : {name}");
         }
         public void Smash()
-        {
+        {   
             Console.WriteLine($"{name} (이)가 휘둘렀다!");
         }
         public void jump()
