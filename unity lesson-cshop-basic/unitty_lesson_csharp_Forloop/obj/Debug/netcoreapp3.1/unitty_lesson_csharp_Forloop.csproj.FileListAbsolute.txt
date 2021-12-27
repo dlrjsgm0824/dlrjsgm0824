@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.exe
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.deps.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.runtimeconfig.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\bin\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_csharp_Forloop\obj\Debug\netcoreapp3.1\unitty_lesson_csharp_Forloop.genruntimeconfig.cache

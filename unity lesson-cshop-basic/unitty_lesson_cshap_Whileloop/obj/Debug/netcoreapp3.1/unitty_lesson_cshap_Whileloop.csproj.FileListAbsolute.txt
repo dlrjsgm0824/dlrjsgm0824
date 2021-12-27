@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.exe
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.deps.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.runtimeconfig.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\bin\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_cshap_Whileloop\obj\Debug\netcoreapp3.1\unitty_lesson_cshap_Whileloop.genruntimeconfig.cache

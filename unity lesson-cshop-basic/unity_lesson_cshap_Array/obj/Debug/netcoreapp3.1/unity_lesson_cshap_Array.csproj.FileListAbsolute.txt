@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity_lesson_cshap_Array\obj\Debug\netcoreapp3.1\unity_lesson_cshap_Array.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity_lesson_cshap_Array\obj\Debug\netcoreapp3.1\unity_lesson_cshap_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity_lesson_cshap_Array\obj\Debug\netcoreapp3.1\unity_lesson_cshap_Array.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity_lesson_cshap_Array\obj\Debug\netcoreapp3.1\unity_lesson_cshap_Array.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity_lesson_cshap_Array\obj\Debug\netcoreapp3.1\unity_lesson_cshap_Array.csproj.CoreCompileInputs.cache

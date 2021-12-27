@@ -90,8 +90,41 @@ namespace unitty_lesson_Cshap_collection
             //dictionary 도 collection이고
             //dictionart
 
-            //Stack
-            //Queue
+            //========================================================
+            //Queue (List 와 비슷하나 FIFO (First Input First Output)
+            //========================================================
+            Queue<int> _queue = new Queue<int>();
+
+            _queue.Enqueue(10);
+            _queue.Enqueue(20);
+            _queue.Enqueue(30);
+
+            _queue.Peek();
+            int j = _queue.Dequeue();
+
+            Console.WriteLine(_queue.Peek()); // 가장 첫번째에 있는 값을 리턴
+            Console.WriteLine(_queue.Dequeue()); // 가장 첫번재에 있는 값을 Queue 에서 빼고 리턴
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Dequeue());
+
+
+            //=======================================================
+            //stack(LIst 와 비슷하나 LiFO (Last Input First Output))
+            //=======================================================
+
+            Stack<int> _stack = new Stack<int>();
+
+            _stack.Push(10);
+            _stack.Push(20);
+            _stack.Push(30);
+
+            Console.WriteLine(_stack.Peek()); // 가장 마지막에 있는 값을 리턴
+            Console.WriteLine(_stack.Pop()); // 가장 마지막에 있는 값을 Stack 에서 리턴 
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+
+
+
 
         }
     }

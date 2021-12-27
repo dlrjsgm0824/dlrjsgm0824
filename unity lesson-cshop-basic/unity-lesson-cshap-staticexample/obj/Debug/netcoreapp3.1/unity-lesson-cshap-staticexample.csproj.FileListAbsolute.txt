@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.exe
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.deps.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.runtimeconfig.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\bin\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unity-lesson-cshap-staticexample\obj\Debug\netcoreapp3.1\unity-lesson-cshap-staticexample.genruntimeconfig.cache

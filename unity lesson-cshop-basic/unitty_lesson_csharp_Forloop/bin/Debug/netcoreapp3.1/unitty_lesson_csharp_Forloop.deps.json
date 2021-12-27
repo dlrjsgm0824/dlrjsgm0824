@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "unitty_lesson_csharp_Forloop/1.0.0": {
+        "runtime": {
+          "unitty_lesson_csharp_Forloop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unitty_lesson_csharp_Forloop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
