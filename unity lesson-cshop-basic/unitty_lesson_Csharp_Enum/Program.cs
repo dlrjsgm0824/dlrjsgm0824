@@ -14,7 +14,7 @@ enum e_PlayerState
 [Flags]
 enum e_platerStateFlags
 {
-    IDLE = 0,      //...000000000
+    IDLE = 0,      //...00000000
     ATTACK = 1<< 0,//...00000001
     JUMP = 1 << 1, //...00000010
     WALK = 1 << 2, //...00000101
@@ -62,10 +62,10 @@ namespace unitty_lesson_Csharp_Enum
             switch (name)
             {
                 case "철수":
-                 Console.WriteLine("내이른은 철수 npc 입니다");
+                 Console.WriteLine("내이른은 철수 NPC 플레이어 입니다");
                     break;
                 case "영희":
-                    Console.WriteLine("내이름은 영희 npc 입니다");
+                    Console.WriteLine("내이름은 영희 NPC 플레이어 입니다");
                     break;
                 default:
                     Console.WriteLine($"내이름은 {name},플레이어입니다");
@@ -175,7 +175,7 @@ namespace unitty_lesson_Csharp_Enum
 
         public void Run()
         {
-            Console.WriteLine($"{name} (이)가 뜀");
+            Console.WriteLine($"{name} (이)가 달림");
         }
 
         public void Attack()
@@ -190,7 +190,7 @@ namespace unitty_lesson_Csharp_Enum
 
         public void Home()
         {
-            Console.WriteLine($"{name} (이)가 집에있음");
+            Console.WriteLine($"{name} (이)가 귀환함");
         }
 
 
