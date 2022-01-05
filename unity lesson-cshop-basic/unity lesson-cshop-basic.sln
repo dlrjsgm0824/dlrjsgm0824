@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_Cshap_collect
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_Csharp_Enum", "unitty_lesson_Csharp_Enum\unitty_lesson_Csharp_Enum.csproj", "{18ADE80C-EADC-469A-A044-407EBCECCABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_csharp_Structure", "unitty_lesson_csharp_Structure\unitty_lesson_csharp_Structure.csproj", "{5EEB79E5-5DD5-4EB5-B311-2DB6BB6FE92D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_csharp_Structure", "unitty_lesson_csharp_Structure\unitty_lesson_csharp_Structure.csproj", "{5EEB79E5-5DD5-4EB5-B311-2DB6BB6FE92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_Csharp_ClassDetails", "unitty_lesson_Csharp_Classdetails\unitty_lesson_Csharp_ClassDetails.csproj", "{0E952111-96AE-474C-BB4C-C5D9F7CCA6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitty_lesson_Csharp_ClassDetails", "unitty_lesson_Csharp_Classdetails\unitty_lesson_Csharp_ClassDetails.csproj", "{0E952111-96AE-474C-BB4C-C5D9F7CCA6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitty_lesson_Csharp_classinheritance", "unitty_lesson_Csharp_classinheritance\unitty_lesson_Csharp_classinheritance.csproj", "{58A76FC6-150B-4F73-AAEB-F9EAB0A259B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{0E952111-96AE-474C-BB4C-C5D9F7CCA6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E952111-96AE-474C-BB4C-C5D9F7CCA6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E952111-96AE-474C-BB4C-C5D9F7CCA6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A76FC6-150B-4F73-AAEB-F9EAB0A259B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A76FC6-150B-4F73-AAEB-F9EAB0A259B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A76FC6-150B-4F73-AAEB-F9EAB0A259B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A76FC6-150B-4F73-AAEB-F9EAB0A259B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

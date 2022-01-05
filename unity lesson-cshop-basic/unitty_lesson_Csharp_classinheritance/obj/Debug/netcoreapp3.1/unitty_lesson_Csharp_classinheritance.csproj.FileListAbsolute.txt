@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.exe
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.deps.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.runtimeconfig.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\bin\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.dll
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.pdb
+C:\Users\User\Documents\GitHub\dlrjsgm0824\unity lesson-cshop-basic\unitty_lesson_Csharp_classinheritance\obj\Debug\netcoreapp3.1\unitty_lesson_Csharp_classinheritance.genruntimeconfig.cache
